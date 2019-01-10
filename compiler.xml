@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="accounting-api" />
+        <module name="admin-api" />
+        <module name="associate-api" />
+        <module name="authority-api" />
+        <module name="cache-api" />
+        <module name="common-api" />
+        <module name="commons-utils" />
+        <module name="distribute-lock" />
+        <module name="dock-commons" />
+        <module name="dock-core" />
+        <module name="dock-rpc-api" />
+        <module name="druid-spring-boot-start" />
+        <module name="dubbo-extends-spring-boot-start" />
+        <module name="elasticsearch-api" />
+        <module name="encrypt-utils" />
+        <module name="erp-api" />
+        <module name="erp-dynamic-datasource" />
+        <module name="goods-api" />
+        <module name="hmily-tcc-admin" />
+        <module name="hy-dock-rpc-client" />
+        <module name="jwt-spring-boot-start" />
+        <module name="mall-api" />
+        <module name="message-api" />
+        <module name="micro-config-server" />
+        <module name="micro-service-monitor" />
+        <module name="mybatis-dynamic-datasource" />
+        <module name="myth-admin" />
+        <module name="order-api" />
+        <module name="oss-spring-boot-starter" />
+        <module name="payment-api" />
+        <module name="product-api" />
+        <module name="redis-spring-boot-start" />
+        <module name="report-api" />
+        <module name="rocketmq-spring-boot-start" />
+        <module name="shiro-spring-boot-starter" />
+        <module name="shiro-spring-boot-web-starter" />
+        <module name="shop-api" />
+        <module name="tarzan-client" />
+        <module name="tarzan-cluster" />
+        <module name="tarzan-common" />
+        <module name="tarzan-mq" />
+        <module name="tarzan-registry" />
+        <module name="tarzan-rpc" />
+        <module name="tarzan-server" />
+        <module name="tarzan-store" />
+        <module name="task-api" />
+        <module name="tcc-transaction-api" />
+        <module name="tcc-transaction-spring-boot-start" />
+        <module name="web-utils" />
+        <module name="wechat-api" />
+        <module name="wechat-commons" />
+        <module name="xjk-microservice-accounting" />
+        <module name="xjk-microservice-admin" />
+        <module name="xjk-microservice-associate" />
+        <module name="xjk-microservice-authority" />
+        <module name="xjk-microservice-cache" />
+        <module name="xjk-microservice-common" />
+        <module name="xjk-microservice-elasticsearch" />
+        <module name="xjk-microservice-erp" />
+        <module name="xjk-microservice-goods" />
+        <module name="xjk-microservice-mall" />
+        <module name="xjk-microservice-message" />
+        <module name="xjk-microservice-order" />
+        <module name="xjk-microservice-payment" />
+        <module name="xjk-microservice-product" />
+        <module name="xjk-microservice-report" />
+        <module name="xjk-microservice-shop" />
+        <module name="xjk-microservice-task" />
+        <module name="xjk-microservice-wechat" />
+        <module name="xjk-rest-admin" />
+        <module name="xjk-rest-associator" />
+        <module name="xjk-rest-common" />
+        <module name="xjk-rest-cooperation" />
+        <module name="xjk-rest-erp" />
+        <module name="xjk-rest-mall" />
+        <module name="xjk-rest-member" />
+        <module name="xjk-rest-portal" />
+        <module name="xjk-rest-support" />
+        <module name="xjk-rest-wechat" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="accounting-api" target="1.8" />
+      <module name="admin-api" target="1.8" />
+      <module name="associate-api" target="1.8" />
+      <module name="authority-api" target="1.8" />
+      <module name="backend" target="1.8" />
+      <module name="backend (1)" target="1.8" />
+      <module name="cache-api" target="1.8" />
+      <module name="common-api" target="1.8" />
+      <module name="commons-utils" target="1.8" />
+      <module name="distribute-lock" target="1.8" />
+      <module name="dock-client" target="1.8" />
+      <module name="dock-commons" target="1.8" />
+      <module name="dock-core" target="1.8" />
+      <module name="dock-rpc-api" target="1.8" />
+      <module name="druid-spring-boot-start" target="1.8" />
+      <module name="dubbo-extends-spring-boot-start" target="1.8" />
+      <module name="elasticsearch-api" target="1.8" />
+      <module name="encrypt-utils" target="1.8" />
+      <module name="erp-api" target="1.8" />
+      <module name="erp-dynamic-datasource" target="1.8" />
+      <module name="goods-api" target="1.8" />
+      <module name="hmily-tcc-admin" target="1.8" />
+      <module name="hy-dock-rpc-client" target="1.8" />
+      <module name="jwt-spring-boot-start" target="1.8" />
+      <module name="mall-api" target="1.8" />
+      <module name="message-api" target="1.8" />
+      <module name="micro-config-server" target="1.8" />
+      <module name="micro-service-monitor" target="1.8" />
+      <module name="mybatis-dynamic-datasource" target="1.8" />
+      <module name="myth-admin" target="1.8" />
+      <module name="order-api" target="1.8" />
+      <module name="oss-spring-boot-starter" target="1.8" />
+      <module name="payment-api" target="1.8" />
+      <module name="product-api" target="1.8" />
+      <module name="redis-spring-boot-start" target="1.8" />
+      <module name="report-api" target="1.8" />
+      <module name="rocketmq-spring-boot-start" target="1.8" />
+      <module name="shiro-spring-boot-starter" target="1.8" />
+      <module name="shiro-spring-boot-web-starter" target="1.8" />
+      <module name="shop-api" target="1.8" />
+      <module name="tarzan-client" target="1.8" />
+      <module name="tarzan-cluster" target="1.8" />
+      <module name="tarzan-common" target="1.8" />
+      <module name="tarzan-mq" target="1.8" />
+      <module name="tarzan-registry" target="1.8" />
+      <module name="tarzan-rpc" target="1.8" />
+      <module name="tarzan-server" target="1.8" />
+      <module name="tarzan-store" target="1.8" />
+      <module name="tarzan-transaction" target="1.8" />
+      <module name="task-api" target="1.8" />
+      <module name="tcc-transaction" target="1.8" />
+      <module name="tcc-transaction-api" target="1.8" />
+      <module name="tcc-transaction-spring-boot-start" target="1.8" />
+      <module name="trazan-client" target="1.8" />
+      <module name="trazan-cluster" target="1.8" />
+      <module name="trazan-mq" target="1.8" />
+      <module name="trazan-registry" target="1.8" />
+      <module name="web-utils" target="1.8" />
+      <module name="wechat-api" target="1.8" />
+      <module name="wechat-commons" target="1.8" />
+      <module name="xjk-components" target="1.8" />
+      <module name="xjk-microservice-accounting" target="1.8" />
+      <module name="xjk-microservice-admin" target="1.8" />
+      <module name="xjk-microservice-api" target="1.8" />
+      <module name="xjk-microservice-associate" target="1.8" />
+      <module name="xjk-microservice-authority" target="1.8" />
+      <module name="xjk-microservice-cache" target="1.8" />
+      <module name="xjk-microservice-cloud" target="1.8" />
+      <module name="xjk-microservice-common" target="1.8" />
+      <module name="xjk-microservice-dock" target="1.8" />
+      <module name="xjk-microservice-elasticsearch" target="1.8" />
+      <module name="xjk-microservice-erp" target="1.8" />
+      <module name="xjk-microservice-goods" target="1.8" />
+      <module name="xjk-microservice-mall" target="1.8" />
+      <module name="xjk-microservice-message" target="1.8" />
+      <module name="xjk-microservice-order" target="1.8" />
+      <module name="xjk-microservice-payment" target="1.8" />
+      <module name="xjk-microservice-product" target="1.8" />
+      <module name="xjk-microservice-report" target="1.8" />
+      <module name="xjk-microservice-shop" target="1.8" />
+      <module name="xjk-microservice-task" target="1.8" />
+      <module name="xjk-microservice-wechat" target="1.8" />
+      <module name="xjk-rest-admin" target="1.8" />
+      <module name="xjk-rest-associator" target="1.8" />
+      <module name="xjk-rest-common" target="1.8" />
+      <module name="xjk-rest-cooperation" target="1.8" />
+      <module name="xjk-rest-erp" target="1.8" />
+      <module name="xjk-rest-mall" target="1.8" />
+      <module name="xjk-rest-member" target="1.8" />
+      <module name="xjk-rest-open" target="1.8" />
+      <module name="xjk-rest-portal" target="1.8" />
+      <module name="xjk-rest-support" target="1.8" />
+      <module name="xjk-rest-wechat" target="1.8" />
+      <module name="xjk-supports" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
